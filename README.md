@@ -4,6 +4,8 @@
 
 - <b>Creating a reverse Shell to gain access to a system</b>
   - [Coming Soon]()
+- <b>Creating a simple Python KeyLogger</b>
+  - [Simple Python KeyLogger](https://github.com/HimmyAsh/Python-KeyLogger) </b>
 
 <h2>⚡ Certifications:</h2>
 
