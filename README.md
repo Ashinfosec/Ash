@@ -11,7 +11,7 @@
 - <b>MD100</b>
 
 <h2> My Website</h2>
-- [HimmyAsh](https://himmyash.streamlit.app/)
+-<b>[HimmyAsh](https://himmyash.streamlit.app/)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
