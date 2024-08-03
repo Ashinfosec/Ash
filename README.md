@@ -9,6 +9,7 @@
 
 <h2>⚡ Certifications:</h2>
 
+- <b>Casp+</b>
 - <b>Security+</b>
 - <b>MD100</b>
 
