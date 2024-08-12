@@ -17,7 +17,7 @@
 
 <h2>My Website</h2>
 
-- [HimmyAsh](https://himmyash.streamlit.app/)
+- [AshInfoSecurity](ashinfosecurity.com)
 
 <h2> 🤳 Connect with me:</h2>
 
