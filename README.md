@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
-- <b>Python Reverse shell backdoor/b>
+- <b>Python file encrypter-decrypter</b>
+  - [Python file encrypter-decrypter ](https://github.com/HimmyAsh/File-Encrypter-Decrypter)
+- <b>Python Reverse shell backdoor</b>
   - [Simple Python Reverse Shell](https://github.com/HimmyAsh/Python-Reverse-Shell)
 - <b>Creating a simple Python KeyLogger</b>
   - [Simple Python KeyLogger](https://github.com/HimmyAsh/Python-KeyLogger) </b>
