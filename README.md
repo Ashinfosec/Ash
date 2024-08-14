@@ -1,4 +1,4 @@
-                                                                                                      <h1> AshInfoSec </h1>
+<h1> AshInfoSec
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
