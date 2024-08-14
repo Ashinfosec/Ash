@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cameron Ash(HimmyAsh)
+<h1> AshInfoSec
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
