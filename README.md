@@ -7,17 +7,6 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -27,12 +16,14 @@
 <br><br>
 
 - 
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: 
-- :computer: 
-- :student:
-- :nerd_face: 
-- :thinking: 
+Credentials
+- [CompTIA CASP+ Certification](https://www.comptia.org/certifications/casp)
+- [CompTIA Security+ Certification](https://www.comptia.org/certifications/security)
+- [Microsoft MD-100 Certification](https://learn.microsoft.com/en-us/certifications/exams/md-100)
+- [Associate of Applied Science in Information Technology Overview](https://www.bestcolleges.com/computer-science/associate/information-technology/)
+
+
+    
 - :boom: You can visit [MY WEBSITE](https://Ashinfosecurity.com).
 <br>
 
@@ -88,16 +79,8 @@
 ---
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
 </details>
 
