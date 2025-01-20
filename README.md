@@ -27,7 +27,7 @@ Alongside my love for cybersecurity, I’m also exploring software development a
 
 <h3>🌐 My Website</h3>
 <p>Check out my personal blog where I share insights and updates on my life/projects.</p>
-<a href="https://yourwebsite.com" target="_blank">
+<a href="https://ashinfosecurity.com" target="_blank">
   <img src="https://img.shields.io/badge/Blog-1A73E8?logo=blogger&logoColor=white" alt="Blog">
 </a>
 
@@ -45,14 +45,8 @@ Alongside my love for cybersecurity, I’m also exploring software development a
 <a href="https://www.linux.org/">
   <img src="https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=white" alt="Linux">
 </a>
-<a href="https://www.redhat.com/">
-  <img src="https://img.shields.io/badge/Red_Hat-red?logo=redhat&logoColor=white" alt="Red Hat">
-</a>
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-</a>
-<a href="https://portswigger.net/burp">
-  <img src="https://img.shields.io/badge/Burp_Suite-FD8C00?logo=burp-suite&logoColor=white" alt="Burp Suite">
 </a>
 <a href="https://www.kali.org/">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white" alt="Kali Linux">
