@@ -10,11 +10,9 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<p>Passionate about both <a href="https://www.pentestpartners.com/">
-  <img src="https://img.shields.io/badge/Red_Team-FF0000?logo=fire&logoColor=white" alt="Red Team" style="vertical-align: middle;"/>
-</a> and <a href="https://www.cisecurity.org/">
-  <img src="https://img.shields.io/badge/Blue_Team-0000FF?logo=shield&logoColor=white" alt="Blue Team" style="vertical-align: middle;"/>
-</a>. Mastering the art of uncovering vulnerabilities while keeping systems secure. Just pretending I know what I'm doing.</p>
+I’ve been in the IT field for over six years, starting as a desktop technician and working my way into cybersecurity. 
+I have a passion for building and securing IT infrastructure, knowing that my work serves as the backbone of an organization’s technology. 
+Alongside my love for cybersecurity, I’m also exploring software development and finding ways to combine creativity and innovation with technical expertise.
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -27,16 +25,8 @@
 - Associate's Degree in Information Technologies
 
 
-🎯 Goals:
-
-- Earn the PJPT certification
-- Become fluent in Python
-    
-
-
-
 <h3>🌐 My Website</h3>
-<p>Check out my personal blog where I share insights, tutorials, and updates on my journey in cybersecurity and pentesting.</p>
+<p>Check out my personal blog where I share insights and updates on my life/projects.</p>
 <a href="https://yourwebsite.com" target="_blank">
   <img src="https://img.shields.io/badge/Blog-1A73E8?logo=blogger&logoColor=white" alt="Blog">
 </a>
