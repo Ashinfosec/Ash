@@ -1,7 +1,5 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27C2F7&width=435&lines=Cybersecurity+Specialist+;Learning+the+offensive+side;Credentials%3A+Casp%2B%2C+Sec%2B%2C+MD100" alt="Typing SVG" /></a>
-
 
 <br>
 
@@ -10,9 +8,9 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-I’ve been in the IT field for over six years, starting as a desktop technician and working my way into cybersecurity. 
-I have a passion for building and securing IT infrastructure, knowing that my work serves as the backbone of an organization’s technology. 
-Alongside my love for cybersecurity, I’m also exploring software development and finding ways to combine creativity and innovation with technical expertise.
+With over six years in the IT industry, I’ve evolved from a hands-on desktop technician into a cybersecurity-minded systems engineer who thrives at the intersection of infrastructure and development. I’ve spent much of my career supporting software development teams—building secure, scalable environments that empower developers to deliver great products.
+
+Now, I'm expanding my focus into application development myself, building tools and apps with JavaScript and other frameworks.
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -21,7 +19,6 @@ Alongside my love for cybersecurity, I’m also exploring software development a
 🎓 Certifications & Education
 - CompTIA Security+ ce
 - CompTIA CASP+
-- MD100
 - Associate's Degree in Information Technologies
 
 
@@ -48,16 +45,9 @@ Alongside my love for cybersecurity, I’m also exploring software development a
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
 </a>
-<a href="https://www.kali.org/">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white" alt="Kali Linux">
+<a href="https://www.javascript.com/">
+  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="JS">
 </a>
-<a href="https://www.tenable.com/products/tenable-sc">
-  <img src="https://img.shields.io/badge/Tenable_SC-2E74B5?logo=tenable&logoColor=white" alt="Tenable SC">
-</a>
-<a href="https://www.metasploit.com/">
-  <img src="https://img.shields.io/badge/Metasploit-0099FF?logo=metasploit&logoColor=white" alt="Metasploit">
-</a>
-
 
 </p>
 
