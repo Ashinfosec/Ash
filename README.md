@@ -8,9 +8,9 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-With over six years in the IT industry, I’ve evolved from a hands-on desktop technician into a cybersecurity-minded systems engineer who thrives at the intersection of infrastructure and development. I’ve spent much of my career supporting software development teams—building secure, scalable environments that empower developers to deliver great products.
+With over six years in the IT industry, I’ve grown from a hands-on desktop technician into a systems engineer who thrives at the intersection of infrastructure, security, and development. My background includes supporting enterprise software development teams by building and maintaining secure, scalable environments — from configuring CI/CD pipelines and automating infrastructure with tools like PowerShell and Ansible, to hardening systems against vulnerabilities with Tenable SC and STIGs.
 
-Now, I'm expanding my focus into application development myself, building tools and apps with JavaScript and other frameworks.
+As a cybersecurity-minded engineer, I’ve always approached infrastructure with a developer’s mindset — automating repetitive tasks, enforcing security controls in code, and bridging the gap between traditional IT and modern DevOps practices. Now, I’m expanding into full-stack application development, building internal tools and cloud-based solutions using JavaScript, Python, and other modern frameworks.
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
